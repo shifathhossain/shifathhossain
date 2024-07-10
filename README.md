@@ -20,18 +20,13 @@ I'm Shifath Hossain — a passionate developer with a keen interest in data anal
   - Exploring new technologies and frameworks to push the boundaries of game design
 
 - 💬 **Ask me about:** 
-  - Game development
-  - Project management
+  - Space
   - Data analytics
   - I love sharing my knowledge and learning from others!
 
 - 📫 **How to reach me:** 
-  - [Your Email]
-  - [LinkedIn Profile]
-  - [Twitter Handle]
-
-- 😄 **Pronouns:** 
-  - [Your Pronouns]
+  - shifathhossain2002@gmail.com
+  - https://www.linkedin.com/in/shifathhossain/
 
 - ⚡ **Fun fact:** 
   - [Your Fun Fact]
