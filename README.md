@@ -28,9 +28,6 @@ I'm Shifath Hossain — a passionate developer with a keen interest in data anal
   - shifathhossain2002@gmail.com
   - https://www.linkedin.com/in/shifathhossain/
 
-- ⚡ **Fun fact:** 
-  - [Your Fun Fact]
-
 ---
 
 Let's create, innovate, and make an impact!
