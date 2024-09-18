@@ -1,33 +1,40 @@
 ## Hi there 👋
 
-I'm Shifath Hossain — a passionate developer with a keen interest in data analytics. Let's connect and create something amazing together!
+- 💻 Bachelor of Science in Computer Science @ St. John’s University (2020 – 2026)
+- 🔧 Former Software Engineering Fellow @ Headstarter, IT Technician Assistant @ Hillside Urgent Care
+- 🧠 Passionate about AI, Data Science, and Full Stack Development
+- 🚀 Fun fact: I have a keen interest in Space Exploration and Video Game Development
 
-### 🌟 About Me
 
-- 🔭 **Currently working on:** 
-  - Developing innovative Roblox games
-  - Enhancing user engagement through creative solutions
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifathhossain2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifathhossain)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shifathhossain)
 
-- 🌱 **Currently learning:** 
-  - Advanced data analytics
-  - Cloud computing services, with a focus on Google Cloud
 
-- 👯 **Looking to collaborate on:** 
-  - Exciting game development projects
-  - Data visualization initiatives
+## Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-- 🤔 **Seeking help with:** 
-  - Exploring new technologies and frameworks to push the boundaries of game design
 
-- 💬 **Ask me about:** 
-  - Space
-  - Data analytics
-  - I love sharing my knowledge and learning from others!
+## Frameworks and Tools
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![OpenAI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 
-- 📫 **How to reach me:** 
-  - shifathhossain2002@gmail.com
-  - https://www.linkedin.com/in/shifathhossain/
 
----
+## Libraries
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-brightgreen?style=for-the-badge&logo=scikit-learn)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge&logo=data)
 
-Let's create, innovate, and make an impact!
+
+## Data Analysis Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-00B3E6?style=for-the-badge&logo=tableau&logoColor=white)
