@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 Bachelor of Science in Computer Science @ St. John’s University (2020 – 2026)
+- 💻 Bachelor of Science in Computer Science @ St. John’s University (2021 – 2026)
 - 🔧 Former Software Engineering Fellow @ Headstarter, IT Technician Assistant @ Hillside Urgent Care
 - 🧠 Passionate about AI, Data Science, and Full Stack Development
 - 🚀 Fun fact: I have a keen interest in Space Exploration and Video Game Development
