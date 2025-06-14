@@ -3,7 +3,6 @@
 - 💻 Bachelor of Science in Computer Science @ St. John’s University (2021 – 2025)
 - 🔧 Former Software Engineering Fellow @ Headstarter, IT Technician Assistant @ Hillside Urgent Care
 - 🧠 Passionate about AI, Data Science, and Full Stack Development
-- 🚀 Fun fact: I have a keen interest in Space Exploration and Video Game Development
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifathhossain2002@gmail.com)
